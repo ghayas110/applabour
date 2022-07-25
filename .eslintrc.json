@@ -1,7 +1,4 @@
 {
-  "extends": "next/core-web-vitals"
-}
-{
   "extends": "next/core-web-vitals",
   "rules": {
     "react/no-unescaped-entities": "off",
@@ -40,7 +37,6 @@
     "eslint-plugin-react-hooks": "off",
     "@next/eslint-plugin-next": "off",
     "curly": "error",
-    "quotes": ["error", "double"],
     "noInlineConfig": true
   },
   
