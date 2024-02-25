@@ -333,7 +333,7 @@ const Demos = () => {
           <div className="container-fluid">
             <div className="sec-head custom-font text-center">
               <Split>
-                <h3 className="wow words chars splitting" data-splitting>
+                <h3 className=" words chars splitting" data-splitting>
                   Portfolio.
                 </h3>
               </Split>
