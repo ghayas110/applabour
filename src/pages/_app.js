@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>App Labour</title>
+        <title>App Gorila</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Cursor />
