@@ -28,7 +28,7 @@ const Footer = () => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> info@applabour.com
+                    <span>Email : </span> info@appgorila.com
                   </li>
                   <li>
                     <span>Address : </span> A1 81 Gulshan-e-Maymar Karachi

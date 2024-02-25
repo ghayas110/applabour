@@ -102,7 +102,7 @@ const ContactWithMap = () => {
                 </h3>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">Email info@applabour.com</a>
+                    <a href="#0">Email info@appgorila.com</a>
                   </h5>
                   <h5> (+1) (281) 909-7198</h5>
                 </div>
